@@ -1,2 +1,2 @@
 # Student-Database-System
-A Java program for a professor to keep track of their students and their different courses. Each course has a title and list of students. Each student should has an age, name, and grade. The program prints a list of students in each course and their information.
+A Java program designed to assist professors in managing their students across various courses. Each course is characterized by a title and a roster of enrolled students. Each student entry includes their age, name, and grade. The program facilitates the generation of a comprehensive list detailing students enrolled in each course along with their respective information.
